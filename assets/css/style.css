@@ -6,3 +6,25 @@
 	padding-bottom: 5px;
 	float: left;
 }
+
+.connect_link_image {
+	margin: 10px;
+	width: 60px;
+	height: auto;
+}
+
+.jumbotron {
+	height: 200px;
+	margin-top: 80px;
+    margin-bottom: 15px;
+    background-image: url(../images/greehall.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.container {
+	margin-bottom: 100px;
+}
